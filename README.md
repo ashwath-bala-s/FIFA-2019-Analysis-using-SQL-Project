@@ -26,7 +26,7 @@ The objective of this project is to analyze the FIFA 19 dataset using SQL. The s
 
 **• Club Analysis**: Analyzed clubs based on total and average ratings of their players to determine the top-performing clubs.
 
-**• Player Preferences: **Investigated the distribution of players’ preferred foot and jersey numbers to understand player preferences and their impact on the dataset.
+**• Player Preferences**Investigated the distribution of players’ preferred foot and jersey numbers to understand player preferences and their impact on the dataset.
 
 **• Joining Analysis:** Analyzed player joining dates to determine the frequency of new player acquisitions over specific date ranges and years.
 
